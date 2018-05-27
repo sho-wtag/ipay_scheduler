@@ -1,0 +1,40 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jersey-client.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jersey-media-jaxb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jersey-common.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-expression-4.3.7.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.servlet-api-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-web-4.3.7.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jersey-container-servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-core-4.3.7.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-webmvc-4.3.7.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-context-4.3.7.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-1.2.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jersey-media-sse.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.ws.rs-api-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/KeyGenApp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ipgclient2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jaxb-api-2.2.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jersey-server.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-annotations-2.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jersey-hk2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jersey-media-json-binding.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ibmpkcs.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-beans-4.3.7.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jersey-container-servlet-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sunjce_provider.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-aop-4.3.7.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jce1_2_1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-databind-2.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-core-2.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ibmjceprovider.jar!/" />
+      <root url="file://$PROJECT_DIR$/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/lib" recursive="false" />
+  </library>
+</component>

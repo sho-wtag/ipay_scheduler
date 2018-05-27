@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="library/ipgclient2.jar"/>
+	<classpathentry kind="lib" path="library/javax.ws.rs-api-2.1.jar"/>
+	<classpathentry kind="lib" path="library/jersey-client.jar"/>
+	<classpathentry kind="lib" path="library/jersey-common.jar"/>
+	<classpathentry kind="lib" path="library/jersey-container-servlet-core.jar"/>
+	<classpathentry kind="lib" path="library/jersey-container-servlet.jar"/>
+	<classpathentry kind="lib" path="library/jersey-hk2.jar"/>
+	<classpathentry kind="lib" path="library/jersey-media-jaxb.jar"/>
+	<classpathentry kind="lib" path="library/jersey-media-json-binding.jar"/>
+	<classpathentry kind="lib" path="library/jersey-media-sse.jar"/>
+	<classpathentry kind="lib" path="library/jersey-server.jar"/>
+	<classpathentry kind="lib" path="D:/Documentation/Wasa Payment Workflow update/IPG2CLIENT/Client2_web/ipgclient/WEB-INF/lib/ibmjceprovider.jar"/>
+	<classpathentry kind="lib" path="D:/Documentation/Wasa Payment Workflow update/IPG2CLIENT/Client2_web/ipgclient/WEB-INF/lib/ibmpkcs.jar"/>
+	<classpathentry kind="lib" path="D:/Documentation/Wasa Payment Workflow update/IPG2CLIENT/Client2_web/ipgclient/WEB-INF/lib/ipgclient2.jar"/>
+	<classpathentry kind="lib" path="D:/Documentation/Wasa Payment Workflow update/IPG2CLIENT/Client2_web/ipgclient/WEB-INF/lib/jce1_2_1.jar"/>
+	<classpathentry kind="lib" path="D:/Documentation/Wasa Payment Workflow update/IPG2CLIENT/Client2_web/ipgclient/WEB-INF/lib/KeyGenApp.jar"/>
+	<classpathentry kind="lib" path="D:/Documentation/Wasa Payment Workflow update/IPG2CLIENT/Client2_web/ipgclient/WEB-INF/lib/log4j-1.2.8.jar"/>
+	<classpathentry kind="lib" path="D:/Documentation/Wasa Payment Workflow update/IPG2CLIENT/Client2_web/ipgclient/WEB-INF/lib/sunjce_provider.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shahadat.hossain1561/Downloads/mysql-connector-java-5.1.46/mysql-connector-java-5.1.46.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Users/shahadat.hossain1561/Downloads/javax.annotation-api-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/files/aopalliance-repackaged-2.5.0-b42.jar"/>
+	<classpathentry kind="lib" path="E:/files/cdi-api-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/files/el-api-2.2.jar"/>
+	<classpathentry kind="lib" path="E:/files/hk2-api-2.5.0-b42.jar"/>
+	<classpathentry kind="lib" path="E:/files/hk2-locator-2.5.0-b42.jar"/>
+	<classpathentry kind="lib" path="E:/files/hk2-utils-2.5.0-b42.jar"/>
+	<classpathentry kind="lib" path="E:/files/javassist-3.22.0-CR2.jar"/>
+	<classpathentry kind="lib" path="E:/files/javax.annotation-api-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/files/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="E:/files/javax.inject-2.5.0-b42.jar"/>
+	<classpathentry kind="lib" path="E:/files/javax.json.bind-api-1.0.jar"/>
+	<classpathentry kind="lib" path="E:/files/javax.json-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/files/javax.json-api-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/files/javax.servlet-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/files/jaxb-api-2.2.7.jar"/>
+	<classpathentry kind="lib" path="E:/files/jboss-interceptors-api_1.1_spec-1.0.0.Beta1.jar"/>
+	<classpathentry kind="lib" path="E:/files/jsr250-api-1.0.jar"/>
+	<classpathentry kind="lib" path="E:/files/org.osgi.core-4.2.0.jar"/>
+	<classpathentry kind="lib" path="E:/files/osgi-resource-locator-1.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/files/persistence-api-1.0.jar"/>
+	<classpathentry kind="lib" path="E:/files/validation-api-1.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="E:/files/yasson-1.0.jar"/>
+	<classpathentry kind="lib" path="E:/Merchant/ibmjsseprovider2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
